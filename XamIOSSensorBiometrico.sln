@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamIOSSensorBiometrico", "XamIOSSensorBiometrico\XamIOSSensorBiometrico.csproj", "{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Release|iPhone.Build.0 = Release|iPhone
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DD80A467-0FB9-44EF-B556-E380D3D8C9D3}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
